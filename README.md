@@ -1,6 +1,6 @@
 ### Welcome to my Github!
 
- ![Telluride Bluegrass Festival](./assets/telluride.jpeg)
+ ![Telluride Bluegrass Festival](./assets/profilepic.png)
 
 
 - 📫 stevencmann2@gmail.com
