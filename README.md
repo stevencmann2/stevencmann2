@@ -9,7 +9,7 @@ I'm Steven, a Full Stack Web Developer and recent graduate of the University of 
 
 
 📫 stevencmann2@gmail.com
-:office: [LinkedIn](https://www.linkedin.com/in/steven-mann-b54494a6/)
+
 
 <!--
 **stevencmann2/stevencmann2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
