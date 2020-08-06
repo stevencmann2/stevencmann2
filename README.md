@@ -5,6 +5,8 @@
 
 I'm Steven, a Full Stack Web Developer and recent graduate of the University of Texas Full Stack Web Development Bootcamp. I'm currently #OpenToWork and am looking to start my new and exciting career in web development. Feel free to view my [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevencmann2)](https://github.com/anuraghazra/github-readme-stats)
+
 :smiley: Thanks for taking the time to check out my profile :smiley:
 
 
