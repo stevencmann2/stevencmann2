@@ -13,9 +13,7 @@ I'm Steven, a Full Stack Web Developer and recent graduate of the University of 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevencmann2&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Top Projects from Bootcamp
-<br/>
-
+## Top Projects from Bootcamp
 ### Project 1
 <a href="https://github.com/stevencmann2/Level-Up">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevencmann2&repo=Level-Up&theme=algolia" />
