@@ -12,7 +12,7 @@ I'm Steven, a Full Stack Web Developer and recent graduate of the University of 
 
 [![stevencmann2's github stats](https://github-readme-stats.vercel.app/api?username=stevencmann2&hide=issues,stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevencmann2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevencmann2&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
