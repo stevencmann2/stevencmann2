@@ -13,16 +13,24 @@ I'm Steven, a Full Stack Web Developer and recent graduate of the University of 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevencmann2&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Top Projects
+## My Top Projects from Bootcamp
+<br/>
 
+### Project 1
 <a href="https://github.com/stevencmann2/Level-Up">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=stevencmann2&repo=Level-Up&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevencmann2&repo=Level-Up&theme=algolia" />
 </a>
-<a href="https://github.com/stevencmann2/mobilePassport">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=stevencmann2&repo=mobilePassport&theme=algolia" />
-</a>
+<br/>
+
+### Project 2
 <a href="https://github.com/stevencmann2/Passport">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=stevencmann2&repo=Passport&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevencmann2&repo=Passport&theme=algolia" />
+</a>
+<br/>
+
+### Project 3
+<a href="https://github.com/stevencmann2/mobilePassport">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevencmann2&repo=mobilePassport&theme=algolia" />
 </a>
 
 </br></br>
