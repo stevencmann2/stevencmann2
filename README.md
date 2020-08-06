@@ -7,6 +7,8 @@ I'm Steven, a Full Stack Web Developer and recent graduate of the University of 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevencmann2&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
+![Javascript Icon](https://github.com/stevencmann2/stevencmann2/blob/master/assets/telluride.png)
+
 :smiley: Thanks for taking the time to check out my profile :smiley:
 
 
