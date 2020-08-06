@@ -1,15 +1,25 @@
 
+ # Welcome to my Github!
+
  ![Telluride Bluegrass Festival](https://github.com/stevencmann2/stevencmann2/blob/master/assets/telluride.jpeg)
 
-### Welcome to my Github!
+## Read Me
 
 I'm Steven, a Full Stack Web Developer and recent graduate of the University of Texas Full Stack Web Development Bootcamp. I'm currently #OpenToWork and am looking to start my new and exciting career in web development. Feel free to view my [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevencmann2&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevencmann2&hide=issues,stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills and Languages!
+### Skills and Languages
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />]
 
-[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+
+### Libraries
+
+
+
 
 :smiley: Thanks for taking the time to check out my profile :smiley:
 
