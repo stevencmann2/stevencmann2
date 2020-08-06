@@ -32,8 +32,27 @@ I'm Steven, a Full Stack Web Developer and recent graduate of the University of 
 <img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
 
+<br/><br/>
+
+### Databases, Architecture & Identity
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="Auth0" width="30px" src="https://avatars3.githubusercontent.com/u/2824157?s=200&v=4" />
 
 
+<br/><br/>
+
+
+### Development & Deployment
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Postman" width="30px" src="https://miro.medium.com/max/1024/1*fVBL9mtLJmHIH6YpU7WvHQ.png" />
+<img align="left" alt="Postman" width="30px" src="https://blog.robomongo.org/content/images/2016/01/enjoy.png" />
+
+
+<br/><br/>
 
 :smiley: Thanks for taking the time to check out my profile :smiley:
 
