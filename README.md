@@ -7,7 +7,14 @@
 
 I'm Steven, a Full Stack Web Developer and recent graduate of the University of Texas Full Stack Web Development Bootcamp. I'm currently #OpenToWork and am looking to start my new and exciting career in web development. Feel free to view my [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevencmann2&hide=issues,stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+
+
+[![stevencmann2's github stats](https://github-readme-stats.vercel.app/api?username=stevencmann2&hide=issues,stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevencmann2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/><br/>
 
 ### Skills and Languages
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/html/html.png" />
@@ -63,7 +70,7 @@ I'm Steven, a Full Stack Web Developer and recent graduate of the University of 
 ### Deployment
 
 <img align="left" alt="Github" width="30px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-<img align="left" alt="Netlify" width="30px" src="https://www.netlify.com/img/press/logos/full-logo-light.png" />
+<img align="left" alt="Netlify" width="30px" src="https://www.netlify.com/img/press/logos/logomark.png" />
 <img align="left" alt="Heroku" width="30px" src="https://cdn.worldvectorlogo.com/logos/heroku.svg" />
 
 <br/><br/>
