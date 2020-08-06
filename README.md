@@ -74,6 +74,9 @@ I'm Steven, a Full Stack Web Developer and recent graduate of the University of 
 
 <br/><br/>
 
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=stevencmann2&repo=News-Scrape-Mongo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515
+
 :smiley: Thanks for taking the time to check out my profile :smiley:
 
 
