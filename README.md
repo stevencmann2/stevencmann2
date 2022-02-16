@@ -14,19 +14,19 @@ I'm Steven, a Full Stack Web and Email Developer and graduate of the University 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevencmann2&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interactive Email Development
-### Phillips 66
+### Phillips 66 Engagement Email Example
 <a href="http://a571ed4cdc3544cf2802-05201760ac2cafb1744b21ae1246f625.r93.cf1.rackcdn.com/B2C/Entries/66WhatBlankSays.html">
-  <img src="./assets/66-cover.png" width="50%" height="auto" />
+  <img src="./assets/66-cover.png" width="30%" height="auto" />
 </a>
 
-### Conoco
+### Conoco Engagement Email Example
 <a href="https://531b51d89436e7b37a11-05201760ac2cafb1744b21ae1246f625.ssl.cf1.rackcdn.com/B2C/Entries/CON-GO-Pilot.html">
-  <img src="./assets/CON-cover.png" width="50%" height="auto" />
+  <img src="./assets/CON-cover.png" width="30%" height="auto" />
 </a>
 
-### 76
+### 76 Engagement Email Example
 <a href="http://a571ed4cdc3544cf2802-05201760ac2cafb1744b21ae1246f625.r93.cf1.rackcdn.com/B2C/Entries/76PickPath.html">
- <img src="./assets/76-cover.png" width="50%" height="auto" />
+ <img src="./assets/76-cover.png" width="30%" height="auto" />
 </a>
 
 
