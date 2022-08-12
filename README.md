@@ -5,7 +5,7 @@
 
 ## Read Me
 
-I'm Steven, a Full Stack Web and Email Developer and graduate of the University of Texas Full Stack Web Development Bootcamp. As a Marketing Austomations Specialist, I'm looking forward to my new and exciting career in web development MarTech. Feel free to view my [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
+I'm Steven, a Full Stack Web and Email Developer and graduate of the University of Texas Full Stack Web Development Bootcamp. As a Marketing Austomations Specialist, I'm looking forward to my new and exciting career in MarTech. Feel free to view my [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
 
 
 
