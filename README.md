@@ -29,6 +29,11 @@ I'm Steven, a Full Stack Web and Email Developer and graduate of the University 
  <img src="./assets/76-cover.png" width="30%" height="auto" />
 </a>
 
+## Freelance Web Development
+### Civitas
+<a href="https://civitas.netlify.app/">
+
+</a>
 
 
 ## Top Projects from Bootcamp
