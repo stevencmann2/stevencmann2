@@ -35,6 +35,21 @@ I'm Steven, a Marketing Automations Specialist/Developer and graduate of the Uni
  <img src="./assets/76-cover.png" width="50%" height="auto" />
 </a>
 
+### YMCA Afterschool Email Example
+<a href="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/YMCA-0205.html">
+  <img src="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/YMCA-ABOVE-FOLD.png" width="50%" height="auto" />
+</a>
+
+### Typhoon Texas Email Example
+<a href="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/PYEK-0016.html">
+  <img src="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/PYEK-ABOVE-FOLD.png" width="50%" height="auto" />
+</a>
+
+### Groves Inventory Email Example
+<a href="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/Groves-Inventory.html">
+  <img src="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/goers-fold.png" width="50%" height="auto" />
+</a>
+
 ## Freelance Web Development
 ### Civitas
 <a href="https://livecivitas.com">
