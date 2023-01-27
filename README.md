@@ -5,7 +5,7 @@
 
 ## Read Me
 
-I'm Steven, a Full Stack Web and Email Developer and graduate of the University of Texas Full Stack Web Development Bootcamp. As a Marketing Austomations Specialist, I'm looking forward to my new and exciting career in MarTech. Feel free to view my [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
+I'm Steven, a Marketing Automations Specialist/Developer and graduate of the University of Texas Full Stack Web Development Bootcamp. As a Marketing Automations Specialist, I implement technically diverse solutions across a variety of platforms specifically tailored for clients needs. Feel free to view my bootcamp [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
 
 
 
@@ -13,18 +13,18 @@ I'm Steven, a Full Stack Web and Email Developer and graduate of the University 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevencmann2&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-## Interactive Email Development
-### Phillips 66 Engagement Email Example
+## Email Development
+### Phillips 66 Interactive Email Example
 <a href="http://a571ed4cdc3544cf2802-05201760ac2cafb1744b21ae1246f625.r93.cf1.rackcdn.com/B2C/Entries/66WhatBlankSays.html">
   <img src="./assets/66-cover.png" width="50%" height="auto" />
 </a>
 
-### Conoco Engagement Email Example
+### Conoco Interactive Email Example
 <a href="https://531b51d89436e7b37a11-05201760ac2cafb1744b21ae1246f625.ssl.cf1.rackcdn.com/B2C/Entries/CON-GO-Pilot.html">
   <img src="./assets/CON-cover.png" width="50%" height="auto" />
 </a>
 
-### 76 Engagement Email Example
+### 76 Interactive Email Example
 <a href="http://a571ed4cdc3544cf2802-05201760ac2cafb1744b21ae1246f625.r93.cf1.rackcdn.com/B2C/Entries/76PickPath.html">
  <img src="./assets/76-cover.png" width="50%" height="auto" />
 </a>
