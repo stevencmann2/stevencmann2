@@ -31,7 +31,7 @@ I'm Steven, a Full Stack Web and Email Developer and graduate of the University 
 
 ## Freelance Web Development
 ### Civitas
-<a href="https://civitas.netlify.app/">
+<a href="https://livecivitas.com">
  <img src="./assets/Civitas.png" width="100%" height="auto" />
 </a>
 
