@@ -14,6 +14,12 @@ I'm Steven, a Marketing Automations Specialist/Developer and graduate of the Uni
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevencmann2&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Email Development
+
+### Conoco GOers Email Example
+<a href="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/Goers-1.html">
+  <img src="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/goers-fold.png" width="50%" height="auto" />
+</a>
+
 ### Phillips 66 Interactive Email Example
 <a href="http://a571ed4cdc3544cf2802-05201760ac2cafb1744b21ae1246f625.r93.cf1.rackcdn.com/B2C/Entries/66WhatBlankSays.html">
   <img src="./assets/66-cover.png" width="50%" height="auto" />
