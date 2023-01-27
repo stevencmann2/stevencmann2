@@ -47,7 +47,7 @@ I'm Steven, a Marketing Automations Specialist/Developer and graduate of the Uni
 
 ### Groves Inventory Email Example
 <a href="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/Groves-Inventory.html">
-  <img src="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/goers-fold.png" width="50%" height="auto" />
+  <img src="https://664df04dd5a9a5878bdd-e7400e7d30316edc82322403d4af119e.ssl.cf1.rackcdn.com/Email/PYEK-0016%20Payment%20Plan%20Email/Groves-Above-fold.png" width="50%" height="auto" />
 </a>
 
 ## Freelance Web Development
