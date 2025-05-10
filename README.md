@@ -5,7 +5,7 @@
 
 ## Read Me
 
-I'm Steven, a Marketing Automations Specialist/Developer and graduate of the University of Texas Full Stack Web Development Bootcamp. As a Marketing Automations Specialist, I implement technically diverse solutions across a variety of platforms specifically tailored for clients needs. Keep scrolling to see various emails I've developed over the years, or view my bootcamp [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
+I'm Steven, a CRM/Marketing Automations Manager and graduate of the University of Texas Full Stack Web Development Bootcamp. I implement technically diverse solutions across a variety of platforms specifically tailored for clients needs. Keep scrolling to see various emails I've developed over the years, or view my bootcamp [portfolio](https://steven-mann-portfolio.netlify.app/) where many of my repositories and projects are listed. 
 
 
 
